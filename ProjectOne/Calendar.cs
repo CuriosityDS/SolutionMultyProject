@@ -7,7 +7,7 @@ namespace ProjectOne
         public static void Main()
         {
             DateTime now = GetCurrentDate();
-            MessageBox.Show($"Today's date is {now}");
+            MessageBox.Show($"Today date is {now}");
         }
         static DateTime GetCurrentDate() => DateTime.Now.Date;
     }
