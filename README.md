@@ -1,2 +1,6 @@
-<h1 align="center">Очень важный<a href="https://www.google.com/maps/@38.8985731,-77.0365278,3a,73.6y,151.21h,98.77t/data=!3m11!1e1!3m9!1sAF1QipO7ZHQpALJbNVnMZVnvR8B4oYczjYu1bS8H9w4x!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO7ZHQpALJbNVnMZVnvR8B4oYczjYu1bS8H9w4x%3Dw203-h100-k-no-pi-0-ya7.5497966-ro-0-fo100!7i6080!8i3040!9m2!1b1!2i50" target="_blank"> репозиторий</a> 
-<img src="https://github.com/CuriosityDS/More-gifs/blob/I'm-definitely-a-programmer/typing-gif.gif" height="64"/></h1>
+<h2 align="center">Открытый репозитории по практической <a href="https://cloud.mail.ru/public/BuZU/BLEnrZ4Mi" target="_blank">"Работа с несколькими проектами в рамках одного решения"</a></h1>
+
+<h3>Напоминаю, что данный репозитории служит как образец выполнение. Не рекомендую <a href="https://moldovacrestina.md/ru/spisivati-greh/" target="_blank">"звбирать"</a></h3>
+
+<h4 align="right">Ваш Curiosity</a> 
+<img src="https://github.com/CuriosityDS/More-gifs/blob/Anime-gifs/angel-beats-cute.gif" height="64"/></h4>
